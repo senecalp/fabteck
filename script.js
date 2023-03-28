@@ -2,13 +2,13 @@ fetch("card.json")
 	.then(function(response){
 	   return response.json();
 	})
-	.then(function(products){
+	.then(function(card){
 	   let placeholder = document.querySelector("#data-output");
 	   let out = "";
-	   for(let product of products){
+	   for(let card of card){
 	      out += `
 	         <tr>
-	            <td> <img src='${product.image}'> </td>
+	            
 	            <td>${card.name}</td>
 	            <td>${card.pitch}</td>
 	            <td>${card.set_id}</td>
