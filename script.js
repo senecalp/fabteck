@@ -1,18 +1,18 @@
-fetch("card.json")
+fetch("products.json")
 	.then(function(response){
 	   return response.json();
 	})
-	.then(function(card){
+	.then(function(products){
 	   let placeholder = document.querySelector("#data-output");
 	   let out = "";
-	   for(let card of cards){
+	   for(let product of products){
 	      out += `
 	         <tr>
-	            
-	            <td>${card.name}</td>
-	            <td>${card.pitch}</td>
-	            <td>${card.set_id}</td>
-	            <td>${card.unique_id}</td>
+	           
+	            <td>${product.name}</td>
+	            <td>${product.pitch}</td>
+	            <td>${product.set_id}</td>
+	           
 	         </tr>
 	      `;
 	   }
