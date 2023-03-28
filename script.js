@@ -1,4 +1,4 @@
-fetch("products.json")
+fetch("card.json")
 	.then(function(response){
 	   return response.json();
 	})
@@ -9,10 +9,10 @@ fetch("products.json")
 	      out += `
 	         <tr>
 	            <td> <img src='${product.image}'> </td>
-	            <td>${product.name}</td>
-	            <td>${product.price}</td>
-	            <td>${product.inventory}</td>
-	            <td>${product.productCode}</td>
+	            <td>${card.name}</td>
+	            <td>${card.pitch}</td>
+	            <td>${card.set_id}</td>
+	            <td>${card.unique_id}</td>
 	         </tr>
 	      `;
 	   }
