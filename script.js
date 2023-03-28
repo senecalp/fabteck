@@ -5,7 +5,7 @@ fetch("card.json")
 	.then(function(card){
 	   let placeholder = document.querySelector("#data-output");
 	   let out = "";
-	   for(let card of card){
+	   for(let card of cards){
 	      out += `
 	         <tr>
 	            
