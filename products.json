@@ -1,38 +1,272 @@
 [
    {
-      "image": "products/01.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   },
-   {
-      "image": "products/02.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   },
-   {
-      "image": "products/03.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   },
-   {
-      "image": "products/04.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   },
-   {
-      "image": "products/05.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   },
-   {
-      "image": "products/06.jpg",
-      "title": "Product title",
-      "description": "Lorem ipsum dolor sit amet consectetur.",
-      "price": "9,99"
-   }
+      "unique_id": "JwTrbpHfNtCHmMnBmqrtb",
+      "name": "Wreck Havoc",
+      "pitch": "1",
+      "cost": "2",
+      "power": "6",
+      "defense": "2",
+      "health": "",
+      "intelligence": "",
+      "types": [
+          "Generic",
+          "Action",
+          "Attack"
+      ],
+      "card_keywords": [],
+      "abilities_and_effects": [],
+      "ability_and_effect_keywords": [],
+      "granted_keywords": [],
+      "functional_text": "Defense reactions can't be played to Wreck Havoc's chain link.\n\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "functional_text_plain": "Defense reactions can't be played to Wreck Havoc's chain link.\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "flavor_text": "",
+      "flavor_text_plain": "",
+      "type_text": "Generic Action - Attack",
+      "played_horizontally": false,
+      "blitz_legal": true,
+      "cc_legal": true,
+      "commoner_legal": false,
+      "blitz_living_legend": false,
+      "cc_living_legend": false,
+      "blitz_banned": false,
+      "cc_banned": false,
+      "commoner_banned": false,
+      "upf_banned": false,
+      "blitz_suspended": false,
+      "cc_suspended": false,
+      "commoner_suspended": false,
+      "printings": [
+          {
+              "unique_id": "HkfnGkfmbDcH8ph9Wbq8C",
+              "set_edition_unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+              "id": "OUT198",
+              "set_id": "OUT",
+              "edition": "N",
+              "foilings": [
+                  "S",
+                  "R"
+              ],
+              "rarity": "R",
+              "artist": "Saad Irfan",
+              "art_variation": null,
+              "image_url": "https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT198.width-450.png"
+          }
+      ]
+  },
+  {
+      "unique_id": "kJngGmGgbGgKLLJPJKQbg",
+      "name": "Wreck Havoc",
+      "pitch": "2",
+      "cost": "2",
+      "power": "5",
+      "defense": "2",
+      "health": "",
+      "intelligence": "",
+      "types": [
+          "Generic",
+          "Action",
+          "Attack"
+      ],
+      "card_keywords": [],
+      "abilities_and_effects": [],
+      "ability_and_effect_keywords": [],
+      "granted_keywords": [],
+      "functional_text": "Defense reactions can't be played to Wreck Havoc's chain link.\n\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "functional_text_plain": "Defense reactions can't be played to Wreck Havoc's chain link.\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "flavor_text": "",
+      "flavor_text_plain": "",
+      "type_text": "Generic Action - Attack",
+      "played_horizontally": false,
+      "blitz_legal": true,
+      "cc_legal": true,
+      "commoner_legal": false,
+      "blitz_living_legend": false,
+      "cc_living_legend": false,
+      "blitz_banned": false,
+      "cc_banned": false,
+      "commoner_banned": false,
+      "upf_banned": false,
+      "blitz_suspended": false,
+      "cc_suspended": false,
+      "commoner_suspended": false,
+      "printings": [
+          {
+              "unique_id": "qtbd7wfCDnLCJzbBDBJbF",
+              "set_edition_unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+              "id": "OUT199",
+              "set_id": "OUT",
+              "edition": "N",
+              "foilings": [
+                  "S",
+                  "R"
+              ],
+              "rarity": "R",
+              "artist": "Saad Irfan",
+              "art_variation": null,
+              "image_url": "https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT199.width-450.png"
+          }
+      ]
+  },
+  {
+      "unique_id": "D9TnG8PWbhKLR8Nc9N6K7",
+      "name": "Wreck Havoc",
+      "pitch": "3",
+      "cost": "2",
+      "power": "4",
+      "defense": "2",
+      "health": "",
+      "intelligence": "",
+      "types": [
+          "Generic",
+          "Action",
+          "Attack"
+      ],
+      "card_keywords": [],
+      "abilities_and_effects": [],
+      "ability_and_effect_keywords": [],
+      "granted_keywords": [],
+      "functional_text": "Defense reactions can't be played to Wreck Havoc's chain link.\n\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "functional_text_plain": "Defense reactions can't be played to Wreck Havoc's chain link.\nWhen this hits a hero, you may turn a card in their arsenal face up, then destroy a defense reaction in their arsenal.",
+      "flavor_text": "",
+      "flavor_text_plain": "",
+      "type_text": "Generic Action - Attack",
+      "played_horizontally": false,
+      "blitz_legal": true,
+      "cc_legal": true,
+      "commoner_legal": false,
+      "blitz_living_legend": false,
+      "cc_living_legend": false,
+      "blitz_banned": false,
+      "cc_banned": false,
+      "commoner_banned": false,
+      "upf_banned": false,
+      "blitz_suspended": false,
+      "cc_suspended": false,
+      "commoner_suspended": false,
+      "printings": [
+          {
+              "unique_id": "jp7B7dDppg8nBnDCqfGzK",
+              "set_edition_unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+              "id": "OUT200",
+              "set_id": "OUT",
+              "edition": "N",
+              "foilings": [
+                  "S",
+                  "R"
+              ],
+              "rarity": "R",
+              "artist": "Saad Irfan",
+              "art_variation": null,
+              "image_url": "https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT200.width-450.png"
+          }
+      ]
+  },
+  {
+      "unique_id": "wb9JwfqjqdfgtdKBDmtbw",
+      "name": "Cut Down to Size",
+      "pitch": "1",
+      "cost": "2",
+      "power": "6",
+      "defense": "2",
+      "health": "",
+      "intelligence": "",
+      "types": [
+          "Generic",
+          "Action",
+          "Attack"
+      ],
+      "card_keywords": [],
+      "abilities_and_effects": [],
+      "ability_and_effect_keywords": [],
+      "granted_keywords": [],
+      "functional_text": "When this hits a hero, if they have 4 or more cards in hand, they discard a card.",
+      "functional_text_plain": "When this hits a hero, if they have 4 or more cards in hand, they discard a card.",
+      "flavor_text": "",
+      "flavor_text_plain": "",
+      "type_text": "Generic Action - Attack",
+      "played_horizontally": false,
+      "blitz_legal": true,
+      "cc_legal": true,
+      "commoner_legal": true,
+      "blitz_living_legend": false,
+      "cc_living_legend": false,
+      "blitz_banned": false,
+      "cc_banned": false,
+      "commoner_banned": false,
+      "upf_banned": false,
+      "blitz_suspended": false,
+      "cc_suspended": false,
+      "commoner_suspended": false,
+      "printings": [
+          {
+              "unique_id": "QFnKBrWQbKGG6KwJMCc7h",
+              "set_edition_unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+              "id": "OUT201",
+              "set_id": "OUT",
+              "edition": "N",
+              "foilings": [
+                  "S",
+                  "R"
+              ],
+              "rarity": "C",
+              "artist": "Phu Thieu",
+              "art_variation": null,
+              "image_url": "https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT201.width-450.png"
+          }
+      ]
+  },
+  {
+      "unique_id": "gGnD9FWMjp89q8PGwThGr",
+      "name": "Cut Down to Size",
+      "pitch": "2",
+      "cost": "2",
+      "power": "5",
+      "defense": "2",
+      "health": "",
+      "intelligence": "",
+      "types": [
+          "Generic",
+          "Action",
+          "Attack"
+      ],
+      "card_keywords": [],
+      "abilities_and_effects": [],
+      "ability_and_effect_keywords": [],
+      "granted_keywords": [],
+      "functional_text": "When this hits a hero, if they have 4 or more cards in hand, they discard a card.",
+      "functional_text_plain": "When this hits a hero, if they have 4 or more cards in hand, they discard a card.",
+      "flavor_text": "",
+      "flavor_text_plain": "",
+      "type_text": "Generic Action - Attack",
+      "played_horizontally": false,
+      "blitz_legal": true,
+      "cc_legal": true,
+      "commoner_legal": true,
+      "blitz_living_legend": false,
+      "cc_living_legend": false,
+      "blitz_banned": false,
+      "cc_banned": false,
+      "commoner_banned": false,
+      "upf_banned": false,
+      "blitz_suspended": false,
+      "cc_suspended": false,
+      "commoner_suspended": false,
+      "printings": [
+          {
+              "unique_id": "6fzBH9TPTbdQJ8hjCmrmh",
+              "set_edition_unique_id": "zd6wBL7zcQR7zrJhwCjrh",
+              "id": "OUT202",
+              "set_id": "OUT",
+              "edition": "N",
+              "foilings": [
+                  "S",
+                  "R"
+              ],
+              "rarity": "C",
+              "artist": "Phu Thieu",
+              "art_variation": null,
+              "image_url": "https://dhhim4ltzu1pj.cloudfront.net/media/images/OUT202.width-450.png"
+          }
+      ]
+  }
 ]

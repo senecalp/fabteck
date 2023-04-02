@@ -8,11 +8,12 @@ fetch("products.json")
    for(let product of products){
       out += `
          <tr>
-            <td> <img src='${product.image}'> </td>
+            <td>${product.pitch}</td>
             <td>${product.name}</td>
-            <td>${product.price}</td>
-            <td>${product.inventory}</td>
-            <td>${product.productCode}</td>
+            <td>${product.printings.rarity}</td>
+            <td>${product.cost}</td>
+            <td>${product.power}</td>
+            <td>${product.defense}</td>
          </tr>
       `;
    }
