@@ -10,7 +10,7 @@ fetch("products.json")
          <tr>
             <td>${product.pitch}</td>
             <td>${product.name}</td>
-            <td>${product.printings.rarity}</td>
+            <td>${product.printings[0].rarity}</td>
             <td>${product.cost}</td>
             <td>${product.power}</td>
             <td>${product.defense}</td>
